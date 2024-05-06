@@ -3,4 +3,4 @@ langchain
 faiss-cpu
 openai
 loguru
-dotenv
+python-dotenv
